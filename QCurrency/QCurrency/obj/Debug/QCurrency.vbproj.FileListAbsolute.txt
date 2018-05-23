@@ -1,0 +1,10 @@
+C:\Users\fabio.b.CORP\Documents\Visual Studio 2012\Projects\QCurrency\QCurrency\obj\Debug\QCurrency.exe
+C:\Users\fabio.b.CORP\Documents\Visual Studio 2012\Projects\QCurrency\QCurrency\obj\Debug\QCurrency.xml
+C:\Users\fabio.b.CORP\Documents\Visual Studio 2012\Projects\QCurrency\QCurrency\obj\Debug\QCurrency.pdb
+C:\Users\fabio.b.CORP\Documents\Visual Studio 2012\Projects\QCurrency\QCurrency\bin\Debug\QCurrency.exe
+C:\Users\fabio.b.CORP\Documents\Visual Studio 2012\Projects\QCurrency\QCurrency\bin\Debug\QCurrency.pdb
+C:\Users\fabio.b.CORP\Documents\Visual Studio 2012\Projects\QCurrency\QCurrency\bin\Debug\QCurrency.xml
+C:\Users\fabio.b.CORP\Documents\Visual Studio 2012\Projects\QCurrency\QCurrency\obj\Debug\QCurrency.Resources.resources
+C:\Users\fabio.b.CORP\Documents\Visual Studio 2012\Projects\QCurrency\QCurrency\obj\Debug\QCurrency.vbproj.GenerateResource.Cache
+C:\Users\fabio.b.CORP\Documents\Visual Studio 2012\Projects\QCurrency\QCurrency\obj\Debug\QCurrency.Main.resources
+C:\Users\fabio.b.CORP\Documents\Visual Studio 2012\Projects\QCurrency\QCurrency\obj\Debug\QCurrency.Coin.resources

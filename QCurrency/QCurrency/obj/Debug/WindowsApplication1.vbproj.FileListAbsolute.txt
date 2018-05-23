@@ -1,0 +1,9 @@
+C:\Users\fabio.b\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\fabio.b\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\QCurrency.exe
+C:\Users\fabio.b\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\QCurrency.pdb
+C:\Users\fabio.b\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\QCurrency.xml
+C:\Users\fabio.b\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\QCurrency.Form1.resources
+C:\Users\fabio.b\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\QCurrency.Resources.resources
+C:\Users\fabio.b\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\QCurrency.exe
+C:\Users\fabio.b\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\QCurrency.xml
+C:\Users\fabio.b\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\QCurrency.pdb
